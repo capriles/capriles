@@ -1,6 +1,9 @@
 ## Hi there 👋
 ## Olá!
 
+👩‍🎓I'm a data science and financial market student;
+👩‍🎓 Sou estudante de Ciências de Dados e Mercado Financeiro;
+
 <div align="">
   <a href="https://github.com/capriles">
     <img height="145em" src="https://github-readme-stats.vercel.app/api?username=capriles&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
